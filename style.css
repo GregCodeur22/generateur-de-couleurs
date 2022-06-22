@@ -1,0 +1,15 @@
+body{
+    overflow: hidden;
+    transition: 2s;
+    margin: 0;
+}
+
+.res{
+    text-align: center;
+    margin: 50vh  auto;
+    background: rgba(0, 0, 0, 0.564);
+    border-radius: 30px;
+    width: 20vw;
+    padding: 2rem;
+    color: white;
+}
